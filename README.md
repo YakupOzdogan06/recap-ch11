@@ -1,1 +1,1 @@
-# GitHub followers page created!
+# GitHub Followers App
